@@ -1,10 +1,8 @@
 # Ransomware Simulation
 This ransomware spend one week to make it out, which is written in java and simulate the behaviors of the infamous malware: CrytoLocker.
 
-#Process this application only in virtual machine like Vagrant and VMWare
-
-##Read the instruction below and process with caution,  
-### This simulated program is designed only for windows
+###Process this application only in virtual machine like Vagrant and VMWare, Read the instruction below and process with caution. 
+ This simulated program is designed only for **windows**
 
 In the `/malware/encryption/src/`   
   Modify th
